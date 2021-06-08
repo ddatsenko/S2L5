@@ -1,0 +1,10 @@
+C:\Users\Денис\Desktop\OOP_Lab5-main\OOP_Lab5-main\OOP_Lab5\bin\Debug\OOP_Lab5.exe.config
+C:\Users\Денис\Desktop\OOP_Lab5-main\OOP_Lab5-main\OOP_Lab5\bin\Debug\OOP_Lab5.exe
+C:\Users\Денис\Desktop\OOP_Lab5-main\OOP_Lab5-main\OOP_Lab5\bin\Debug\OOP_Lab5.pdb
+C:\Users\Денис\Desktop\OOP_Lab5-main\OOP_Lab5-main\OOP_Lab5\obj\Debug\S2L5.csproj.AssemblyReference.cache
+C:\Users\Денис\Desktop\OOP_Lab5-main\OOP_Lab5-main\OOP_Lab5\obj\Debug\OOP_Lab5.Form1.resources
+C:\Users\Денис\Desktop\OOP_Lab5-main\OOP_Lab5-main\OOP_Lab5\obj\Debug\OOP_Lab5.Properties.Resources.resources
+C:\Users\Денис\Desktop\OOP_Lab5-main\OOP_Lab5-main\OOP_Lab5\obj\Debug\S2L5.csproj.GenerateResource.cache
+C:\Users\Денис\Desktop\OOP_Lab5-main\OOP_Lab5-main\OOP_Lab5\obj\Debug\S2L5.csproj.CoreCompileInputs.cache
+C:\Users\Денис\Desktop\OOP_Lab5-main\OOP_Lab5-main\OOP_Lab5\obj\Debug\OOP_Lab5.exe
+C:\Users\Денис\Desktop\OOP_Lab5-main\OOP_Lab5-main\OOP_Lab5\obj\Debug\OOP_Lab5.pdb
